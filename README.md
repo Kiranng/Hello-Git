@@ -1,5 +1,5 @@
 # Hello-Git
-Learning the Git Repository
+Learning the Git Repostory
 
 Updated
 
